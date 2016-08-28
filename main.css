@@ -1,0 +1,41 @@
+body {
+  background-size: cover;
+  background-image: url(http://wallpapercave.com/wp/t4euixG.jpg);
+}
+ul {
+  position: absolute;
+  list-style: none;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+li {
+  font-size: 25px;
+  padding: 40px;
+  border: 5px solid red;
+  width: auto;
+  cursor: pointer;
+}
+a {
+  font-size: 60px;
+}
+li:hover{
+  background-color: #ccffff;
+}
+td{
+  padding: 30px;
+  border: 3px solid red;
+  width: auto;
+}
+td:hover{
+  background-color: red;
+  cursor: pointer;
+}
+
+.clothingTableTag {
+  margin: auto;
+  padding: auto;
+}
+.clothingTable {
+  align-self: center;
+}
